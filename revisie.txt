@@ -1,0 +1,26 @@
+
+#yang sudah
+1. Profile Sudah Bisa Diupdate baik yang duser/maupun di admin
+2. menambahkan fitur chat whatsapp
+3. halaman history sudah terisi
+4. halaman my kost sudah terisi
+
+#yang belum 
+1. 50%
+2. pemesanan di tanggal
+3. Pemesanan tanggal disable
+
+#revisi
+1. Navigasi Pada User 1
+2. halaman Dashboard 1
+3. Login Dirubah PAs mau booking 1
+4. Tampilkan Lokasi Kostan 1
+5. Perpanjangan Sewa -
+6. Pembatalan Booking 1
+7. Pemesanan Dibulan Berikutnya -
+8. Pembayaran Masih Error 1
+9. Pembayaran Sepenuhnya Error 1
+10. bukti transfer dizoom 1
+11. Nama,Email,Nohp dihapus 1
+12. Testimonial ganti jadi gallery 
+
